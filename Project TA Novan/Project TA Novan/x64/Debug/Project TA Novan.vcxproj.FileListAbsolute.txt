@@ -1,0 +1,3 @@
+C:\Users\Kevin Novan\source\repos\Project TA Novan\Project TA Novan\x64\Debug\Project TA Novan.vcxproj.AssemblyReference.cache
+C:\Users\Kevin Novan\source\repos\Project TA Novan\Project TA Novan\x64\Debug\ProjectTANovan.MyForm.resources
+C:\Users\Kevin Novan\source\repos\Project TA Novan\Project TA Novan\x64\Debug\Project TA Novan.vcxproj.GenerateResource.cache
